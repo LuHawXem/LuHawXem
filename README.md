@@ -3,7 +3,7 @@
 - 🔭I'm an undergraduate student now
 - 🌱I'm currently learning the implementation of the operating system
 - 💬You can flip through [my blog](https://git.luhawxem.com/),but only support Chinese,my English is poor:joy:
-- 🌞Dream of being a operating system design engineer
+- 🌞Dream of being a operating system design engineer or a stack overflow engineer
 
 <!--
 **LuHawXem/LuHawXem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
