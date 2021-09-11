@@ -5,8 +5,8 @@
 - 💬You can flip through [my blog](https://git.luhawxem.com/),but only support Chinese,my English is poor:joy:
 - 🌞Dream of being a operating system design engineer or a stack overflow engineer
 
-![](https://github-readme-stats.vercel.app/api?username=situ2001&count_private=true&show_icons=true&include_all_commits=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=situ2001&exclude_repo=situ2001.github.io&langs_count=6)
+![](https://github-readme-stats.vercel.app/api?username=LuHawXem&count_private=true&show_icons=true&include_all_commits=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=LuHawXen&exclude_repo=luhawxem.github.io&langs_count=6)
 
 <!--
 **LuHawXem/LuHawXem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
