@@ -5,7 +5,7 @@
 - 🌞Still learning to be a operating system design engineer or a stack overflow engineer
 
 ![](https://github-readme-stats.vercel.app/api?username=LuHawXem&count_private=true&show_icons=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=LuHawXem&exclude_repo=luhawxem.github.io&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=LuHawXem&langs_count=6)
 
 <!--
 **LuHawXem/LuHawXem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
