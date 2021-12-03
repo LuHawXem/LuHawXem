@@ -1,8 +1,9 @@
-### Still learing:book: and sometimes gaming:video_game:
+### Keep learing:book:
 
 - 🔭I'm an undergraduate student now
 - 💬You can flip through [my blog](https://git.luhawxem.com/),but only support Chinese,my English is poor:joy:
-- 🌞Still learning to be a operating system design engineer or a stack overflow engineer
+- 🌞Still learning, everything in the computer world is attractive to me.
+- 😃At this stage, coding is my live.
 
 ![](https://github-readme-stats.vercel.app/api?username=LuHawXem&count_private=true&show_icons=true&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=LuHawXem&langs_count=6)
