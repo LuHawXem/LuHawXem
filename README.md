@@ -6,7 +6,7 @@
 - 😃At this stage, coding is my live.
 
 ![](https://github-readme-stats.vercel.app/api?username=LuHawXem&count_private=true&show_icons=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=LuHawXem&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=LuHawXem)
 
 <!--
 **LuHawXem/LuHawXem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
