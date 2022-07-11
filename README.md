@@ -5,8 +5,12 @@
 - 🌞Still learning, everything in the computer world is attractive to me.
 - 😃Enjoy life, enjoy coding.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuHawXem&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&theme=react" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=LuHawXem&hide=html&theme=react" />
+<a href="https://github-readme-stats.vercel.app/api?username=LuHawXem&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&theme=react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuHawXem&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&theme=react" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=LuHawXem&hide=html&theme=react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=LuHawXem&hide=html&theme=react" />
+</a>
 
 <!--
 **LuHawXem/LuHawXem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
