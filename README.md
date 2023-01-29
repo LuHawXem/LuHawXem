@@ -1,9 +1,6 @@
 ### Keep learing:book:
 
-- 🔭I'm an undergraduate student now
-- 💬You can flip through [my blog](https://git.luhawxem.com/),but only support Chinese,my English is poor:joy:
-- 🌞Still learning, everything in the computer world is attractive to me.
-- 😃Enjoy life, enjoy coding.
+- 😃转战gitlab，菜鸡前端一个
 
 <a href="https://github-readme-stats.vercel.app/api?username=LuHawXem&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&theme=react">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuHawXem&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&theme=react" />
