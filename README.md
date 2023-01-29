@@ -1,6 +1,6 @@
 ### Keep learing:book:
 
-- 😃转战gitlab，菜鸡前端一个
+- 😃转战[gitlab](https://gitlab.com/hawxemlu)，菜鸡前端一个，个人博客https://cloudflare.luhawxem.com/
 
 <a href="https://github-readme-stats.vercel.app/api?username=LuHawXem&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&theme=react">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuHawXem&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&theme=react" />
